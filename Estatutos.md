@@ -3,7 +3,7 @@
 ### Artigo 1º - Definição e missão
 1. O Partido E é um partido de pessoas unidas pela ideia que a tecnologia e conhecimento pode revolucionar a forma como exercemos a democracia, aumentando a sua representatividade e excrutínio, e a ciência é a chave para o desenvolvimento sustentável da nossa sociedade.
 2. O Partido E é um partido tecnológico, científico e de futuro mas não tecnocrata. Promove pequenas significantes mudanças como forma essencial de melhorar e seguir uma estratégia. Grandes reformas só quando estritamente necessário.
-3. A sua missão traduz-se na prossecução de uma sociedade sustentável, em comunhão com o planeta e com os direitos Humanos, da melhoria do processo democrático, da sua representatividade, e responsabilização dos decisores políticos e outros órgãos de poder, através de novas ferramentas e processos de participação e voto, de uma administração pública independente, moderna e meritrocrata, separada do poder político executivo.
+3. A sua missão traduz-se na prossecução de uma sociedade sustentável, em comunhão com o Planeta e com os direitos Humanos, da melhoria do processo democrático, da sua representatividade, e responsabilização dos decisores políticos e outros órgãos de poder, através de novas ferramentas e processos de participação e voto, de uma administração pública independente, moderna e meritrocrata, separada do poder político executivo.
 4. Os três pilares da ação política do Partido E são Inovação, Transparência, e Sustentabilidade.
 
       - Inovação -
@@ -73,17 +73,15 @@ O Partido E guia-se pelos princípios e valores, da Carta dos Direitos Fundament
 ### Artigo 7º - Órgãos do partido
 1. São órgãos do Partido E:
 
-   a) o Congresso;
+   a) a Assembleia;
 
-   b) a Assembleia;
+   b) o Grupo executivo;
 
-   c) o Grupo de Contacto;
-
-   d) os Grupos de Trabalho;
-
-   e) os Núcleos Territoriais;
+   c) os Grupos especializados;
 
    f) as Assembleias Regionais;
+
+   c) os Grupos executivos Regionais;
 
    g) o Conselho de Jurisdição, incluindo:
 
@@ -102,63 +100,51 @@ O Partido E guia-se pelos princípios e valores, da Carta dos Direitos Fundament
 3. Nas eleições aos órgãos partidários e nas candidaturas apresentadas pelo Partido E deve estar assegurada a igualdade representativa de género.
 4. As eleições internas são definidas pelos Regulamentos próprios dos órgãos do partido e, subsidiariamente, pelo Regulamento das Eleições Internas.
 
-### Artigo 9º - Congresso
-1. É o órgão máximo do partido. Compete-lhe, designadamente:
-
-   a) aprovar os Estatutos, a Declaração de Princípios e o Programa Político;
-
-   b) definir as linhas gerais das políticas nacionais do Partido E;
-
-   c) eleger a Assembleia, o Grupo de Contacto e o Conselho de Jurisdição, incluindo a Comissão de Ética e de Arbitragem e a Comissão de Fiscalização, bem como aprovar os respetivos regulamentos de funcionamento.
-
-2. O Congresso:
-
-   a) reúne-se a cada dois anos;
-
-   b) reúne-se também nos anos para os quais se prevê a realização de eleições nacionais ou europeias, tendo de ser convocado para pelo menos 90 dias antes destas;
-
-   c) pode ser extraordinariamente convocado pela Assembleia, por 30% dos Núcleos Territoriais e/ou 20% dos membros, quando, designadamente, esteja em causa a celebração de acordos políticos, a realização de referendos internos, ou quando seja necessário definir uma estratégia de âmbito nacional.
-
-3. O Congresso é composto por todos os membros do partido.
 
 ### Artigo 10º - Assembleia
-1. A Assembleia é o órgão máximo do Partido no período que intercala a realização do Congresso, reunindo-se, pelo menos, três vezes por ano.
-2. É composta pelos membros uninominalmente eleitos no Congresso.
-3. A partir da Assembleia devem formar-se grupos de trabalho para a gestão prática dos assuntos setoriais do partido, e a ser formados pelos membros da Assembleia que para tal devem escolher, no dia da primeira reunião, e na ordem dos votos que tenham obtido em Congresso, o grupo de trabalho a que desejem pertencer.
+1. A Assembleia é o órgão máximo do Partido.
+2. É composta pelos membros uninominalmente eleitos pelos membro do partido.
+3. A partir da Assembleia devem formar-se grupos especializados para a gestão prática dos assuntos setoriais do partido, e a ser formados pelos membros da Assembleia que para tal devem escolher, no dia da primeira reunião, e na ordem dos votos que tenham obtido em Eleição, o grupo de especializado a que desejem pertencer.
 4. É também competência da Assembleia:
 
     a) a definição da ação política e estratégica do partido;
 
-    b) a marcação da data e local do Congresso;
+    b) a marcação das datas das votações para aprovação dos Estatutos, da Decralação de Princípios e do Programa Político, bem como dos regulamentos internos;
+
+    c) a marcação das datas das eleições para a Assembleia, Grupo executivo e Conselho  de jurisdição;
 
     c) a aprovação anual do relatório de contas do partido e a aprovação anual do orçamento do partido;
 
-    d) a convocação de referendos internos; e) o estabelecimento do valor da quota anual.
+    d) a convocação de referendos internos;
 
-5. A Assembleia pode contratar o pessoal que considere necessário em regime de contrato de trabalho subordinado, bem como recorrer ao serviço de consultoria de peritos, ajustando em cada caso as respetivas remunerações. Rege-se por regulamento próprio aprovado em Congresso.
+    e) o estabelecimento do valor da quota anual.
 
-### Artigo 11º - Grupo de Contacto
-1. O Grupo de Contacto é o órgão executivo do Partido E, estando responsável pela gestão quotidiana do partido e pela coordenação entre os núcleos, os círculos temáticos e os grupos de trabalho, reunindo-se semanalmente.
-2. É composto por 15 membros eleitos em lista no Congresso, nos termos do seu regulamento próprio e de acordo com o método de Hondt, e por um representante de cada grupo de trabalho.
+5. A Assembleia pode contratar o pessoal que considere necessário em regime de contrato de trabalho subordinado, bem como recorrer ao serviço de consultoria de peritos, ajustando em cada caso as respetivas remunerações. Rege-se por regulamento próprio aprovado pelos membros do Partido após votação.
+
+### Artigo 11º - Grupo executivo
+1. O Grupo executivo é o órgão executivo do Partido E, estando responsável pela gestão quotidiana do partido e pela coordenação entre os núcleos e os grupos especializados.
+2. É composto por 15 membros eleitos, nos termos do seu regulamento próprio e de acordo com o método Schulze, e por um representante de cada grupo de especializado.
 3. Responde perante a Assembleia, apresentando anualmente um relatório de atividades, o relatório de contas do partido e o orçamento do partido.
 
-### Artigo 12º - Grupos de Trabalho
-1. Os grupos de trabalho são criados pela Assembleia e compostos pelos seus membros que devem escolher os grupos de trabalho de que querem fazer parte.
-2. Os Grupos de Trabalho podem também ter membros observadores.
-3. Fazem parte das suas competências a aplicação das resoluções do Congresso e da Assembleia, a comunicação com os deputados nacionais e europeus do partido, a comunicação externa do partido, a elaboração de uma proposta anual de orçamento, o acompanhamento da política nacional e europeia.
+### Artigo 12º - Grupos especializados
+
+1. Os grupos especializados são criados pela Assembleia e compostos pelos seus membros que devem escolher os grupos especializados de que querem fazer parte.
+2. Os Grupos especializados podem também ter membros observadores.
+3. Fazem parte das suas competências a aplicação das resoluções aprovadas por votação dos membros do Partido e da Assembleia, a comunicação com os deputados nacionais e europeus do partido, a comunicação externa do partido, a elaboração de uma proposta anual de orçamento, o acompanhamento da política nacional e europeia.
 
 ### Artigo 13º - Porta-Voz
-1. O porta-voz é um membro do Grupo de Contacto, escolhido de acordo com o tema a ser abordado no exterior, sendo por isso um cargo rotativo.
-2. Compete-lhe falar em nome do partido e representá-lo na sua dimensão externa. As suas competências são determinadas pela Assembleia e pelo Grupo de Contacto e, nas suas funções, não se pode sobrepor às estratégias políticas definidas por estes órgãos partidários.
+1. O porta-voz é um membro do Grupo executivo, escolhido de acordo com o tema a ser abordado no exterior, sendo por isso um cargo rotativo.
+2. Compete-lhe falar em nome do partido e representá-lo na sua dimensão externa. As suas competências são determinadas pela Assembleia e pelo Grupo executivo e, nas suas funções, não se pode sobrepor às estratégias políticas definidas por estes órgãos partidários.
 
 ### Artigo 14º - Conselho de Jurisdição
 1. O Conselho de Jurisdição é o órgão do Partido E responsável pela interpretação e aplicação internas da Lei, dos Estatutos e Regulamentos e pela fiscalização e controlo internos da gestão financeira do partido.
 2. O Conselho de Jurisdição atua de acordo com os seguintes princípios gerais:
-  a) o Conselho de Jurisdição é Partido E, autónomo e independente no exercício das suas funções;
 
-  b) pode apresentar queixa ao Conselho de Jurisdição qualquer membro ou apoiante do Partido E;
+      a) o Conselho de Jurisdição é Partido E, autónomo e independente no exercício das suas funções;
 
-  c) das decisões do Conselho de Jurisdição cabe recurso para o Tribunal competente.
+      b) pode apresentar queixa ao Conselho de Jurisdição qualquer membro ou apoiante do Partido E;
+
+      c) das decisões do Conselho de Jurisdição cabe recurso para o Tribunal competente.
 
 3. O Conselho de Jurisdição tem a seguinte estrutura:
 
@@ -242,6 +228,6 @@ O Partido E guia-se pelos princípios e valores, da Carta dos Direitos Fundament
 ### Artigo 21º - Da participação em organizações internacionais
 1. O Partido E pode associar-se a partidos europeus, a associações de partidos ou integrar outras organizações internacionais que perfilhem uma ideologia compatível com os presentes Estatutos, sem poderes de interferência na definição da linha política própria de cada partido membro. Essa associação só pode dar-se após um processo deliberativo em Congresso.
 
-## Artigo 22º - Disposições Finais
+### Artigo 22º - Disposições Finais
 1. Os presentes Estatutos podem ser revistos através de uma maioria de dois terços em Congresso convocado com capacidade para tal, e sob processo de propostas e emendas iniciado pelo menos 60 dias antes da realização do Congresso.
 2. Os casos omissos, que não estejam regulados em regulamento próprio, estão sujeitos a pareceres da Comissão de Ética e Arbitragem, que terão de ser ratificados pelo Congresso. Em situações excepcionais e urgentes, os pareceres emitidos neste âmbito são temporariamente validados pela Assembleia, devendo ser, logo que possível, ratificados pelo Congresso.

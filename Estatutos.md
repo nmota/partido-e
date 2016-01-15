@@ -113,11 +113,11 @@ O Partido E guia-se pelos princípios e valores, da Carta dos Direitos Fundament
 
     c) a marcação das datas das eleições para a Assembleia, Grupo executivo e Conselho  de jurisdição;
 
-    c) a aprovação anual do relatório de contas do partido e a aprovação anual do orçamento do partido;
+    d) a aprovação anual do relatório de contas do partido e a aprovação anual do orçamento do partido;
 
-    d) a convocação de referendos internos;
+    e) a convocação de referendos internos;
 
-    e) o estabelecimento do valor da quota anual.
+    f) o estabelecimento do valor da quota anual.
 
 5. A Assembleia pode contratar o pessoal que considere necessário em regime de contrato de trabalho subordinado, bem como recorrer ao serviço de consultoria de peritos, ajustando em cada caso as respetivas remunerações. Rege-se por regulamento próprio aprovado pelos membros do Partido após votação.
 
